@@ -21,7 +21,7 @@ Task Tracker is a simple React application that allows you to track your tasks. 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/task-tracker.git
+git clone (https://github.com/hamadi-maker/react-task-tracker.git)
 
 
 2. Navigate to the project directory:
