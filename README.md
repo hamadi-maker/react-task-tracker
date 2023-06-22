@@ -20,29 +20,29 @@ Task Tracker is a simple React application that allows you to track your tasks. 
 ## Installation
 
 1. Clone the repository:
-
+```
 git clone (https://github.com/hamadi-maker/react-task-tracker.git)
-
+```
 
 2. Navigate to the project directory:
-
+```
 cd task-tracker
-
+```
 
 3. Install dependencies:
-
+```
 npm install
-
+```
 
 4. Start the JSON server for mock API data:
-
+```
 npm run server
-
+```
 
 5. In a new terminal tab or window, start the React app:
-
+```
 npm start
-
+```
 
 6. Open your web browser and access the app at `http://localhost:3000`
 
